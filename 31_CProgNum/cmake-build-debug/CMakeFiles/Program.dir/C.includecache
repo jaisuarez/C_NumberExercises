@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jazermariesuarez/Google Drive/Project/3_CProgNumbers/CProgNum_31/Program/main.c
+stdio.h
+-
+math.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jazermariesuarez/Google Drive/Project/3_CProgNumbers/CProgNum_33/Program/main.c
+stdio.h
+-
+math.h
+-
+
